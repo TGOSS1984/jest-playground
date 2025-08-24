@@ -1,5 +1,13 @@
 {
+  "name": "jest-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
-    "jest": "^30.0.5"
+    "jest": "^30.0.5",
+    "jest-environment-jsdom": "^30.0.5"
   }
 }
